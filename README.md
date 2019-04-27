@@ -12,3 +12,11 @@ Actividades Taller 1
 
 
 EDICION DEL ARCHIVO EN EN EL NUEVO BRANCH
+
+NOMBRES:
+
+Andres Rodriguez
+Oscar Orjuela
+Pedro Pachon
+
+MSIC-1
