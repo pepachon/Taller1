@@ -1,1 +1,2 @@
-IP  Hostname  Puerto  Servicio  Version
+IP            Hostname  Puerto  Servicio            Version
+172.16.54.7   N/A       1521    Oracle TNS listener 12.2.0.1.0
