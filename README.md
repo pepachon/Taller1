@@ -9,3 +9,6 @@ Actividades Taller 1
 - Descubrir con nmap las bases de datos en el segmento de red suministrado.
 - Identificar el tipo, la versión y los puertos utilizados por cada una de ellas.
 - Publicar la documentación en github.
+
+
+EDICION DEL ARCHIVO EN EN EL NUEVO BRANCH
