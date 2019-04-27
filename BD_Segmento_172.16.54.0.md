@@ -3,3 +3,5 @@ IP            Hostname    Puerto  Servicio            Version     SO
 
 
 ![Captura](/Captura.PNG)
+![Captura](/taller.JPG)
+
